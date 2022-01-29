@@ -1,0 +1,16 @@
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\exampleIf\bin\Debug\net5.0\exampleIf.exe
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\exampleIf\bin\Debug\net5.0\exampleIf.deps.json
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\exampleIf\bin\Debug\net5.0\exampleIf.runtimeconfig.json
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\exampleIf\bin\Debug\net5.0\exampleIf.runtimeconfig.dev.json
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\exampleIf\bin\Debug\net5.0\exampleIf.dll
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\exampleIf\bin\Debug\net5.0\ref\exampleIf.dll
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\exampleIf\bin\Debug\net5.0\exampleIf.pdb
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\exampleIf\obj\Debug\net5.0\exampleIf.csproj.AssemblyReference.cache
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\exampleIf\obj\Debug\net5.0\exampleIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\exampleIf\obj\Debug\net5.0\exampleIf.AssemblyInfoInputs.cache
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\exampleIf\obj\Debug\net5.0\exampleIf.AssemblyInfo.cs
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\exampleIf\obj\Debug\net5.0\exampleIf.csproj.CoreCompileInputs.cache
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\exampleIf\obj\Debug\net5.0\exampleIf.dll
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\exampleIf\obj\Debug\net5.0\ref\exampleIf.dll
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\exampleIf\obj\Debug\net5.0\exampleIf.pdb
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\exampleIf\obj\Debug\net5.0\exampleIf.genruntimeconfig.cache
