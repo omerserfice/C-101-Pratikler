@@ -37,6 +37,10 @@ namespace operatorler
                   System.Console.WriteLine("Fine");
               }
 
+           bool a = true;
+           bool b = false;
+            System.Console.WriteLine(a^b);
+
         }
     }
 }
