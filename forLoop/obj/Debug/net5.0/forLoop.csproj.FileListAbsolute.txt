@@ -1,0 +1,16 @@
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\forLoop\bin\Debug\net5.0\forLoop.exe
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\forLoop\bin\Debug\net5.0\forLoop.deps.json
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\forLoop\bin\Debug\net5.0\forLoop.runtimeconfig.json
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\forLoop\bin\Debug\net5.0\forLoop.runtimeconfig.dev.json
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\forLoop\bin\Debug\net5.0\forLoop.dll
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\forLoop\bin\Debug\net5.0\ref\forLoop.dll
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\forLoop\bin\Debug\net5.0\forLoop.pdb
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\forLoop\obj\Debug\net5.0\forLoop.csproj.AssemblyReference.cache
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\forLoop\obj\Debug\net5.0\forLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\forLoop\obj\Debug\net5.0\forLoop.AssemblyInfoInputs.cache
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\forLoop\obj\Debug\net5.0\forLoop.AssemblyInfo.cs
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\forLoop\obj\Debug\net5.0\forLoop.csproj.CoreCompileInputs.cache
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\forLoop\obj\Debug\net5.0\forLoop.dll
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\forLoop\obj\Debug\net5.0\ref\forLoop.dll
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\forLoop\obj\Debug\net5.0\forLoop.pdb
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\forLoop\obj\Debug\net5.0\forLoop.genruntimeconfig.cache
