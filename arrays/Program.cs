@@ -40,6 +40,12 @@ namespace arrays
          }
          ort = toplam/diziSayisi;
          System.Console.WriteLine("Toplam:{0} Ortalama:{1}",toplam,ort);
+
+
+         
+
+
+
           
          }
     }
