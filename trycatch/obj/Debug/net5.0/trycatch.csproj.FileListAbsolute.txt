@@ -1,0 +1,16 @@
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\trycatch\bin\Debug\net5.0\trycatch.exe
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\trycatch\bin\Debug\net5.0\trycatch.deps.json
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\trycatch\bin\Debug\net5.0\trycatch.runtimeconfig.json
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\trycatch\bin\Debug\net5.0\trycatch.runtimeconfig.dev.json
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\trycatch\bin\Debug\net5.0\trycatch.dll
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\trycatch\bin\Debug\net5.0\ref\trycatch.dll
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\trycatch\bin\Debug\net5.0\trycatch.pdb
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\trycatch\obj\Debug\net5.0\trycatch.csproj.AssemblyReference.cache
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\trycatch\obj\Debug\net5.0\trycatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\trycatch\obj\Debug\net5.0\trycatch.AssemblyInfoInputs.cache
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\trycatch\obj\Debug\net5.0\trycatch.AssemblyInfo.cs
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\trycatch\obj\Debug\net5.0\trycatch.csproj.CoreCompileInputs.cache
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\trycatch\obj\Debug\net5.0\trycatch.dll
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\trycatch\obj\Debug\net5.0\ref\trycatch.dll
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\trycatch\obj\Debug\net5.0\trycatch.pdb
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\trycatch\obj\Debug\net5.0\trycatch.genruntimeconfig.cache
