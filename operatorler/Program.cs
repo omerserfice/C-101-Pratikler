@@ -6,7 +6,37 @@ namespace operatorler
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //atama ve işlemler
+            int x = 3;
+            int y = 3;
+            y = y+2;
+
+            Console.WriteLine(y);
+
+            y+=2;
+              Console.WriteLine(y);
+            y/=2;
+              Console.WriteLine(y);
+            x*=2;
+              Console.WriteLine(x);
+
+              //mantıksal operatorler
+
+              bool isSuccess = false;
+              bool isCompleted = false;
+              if (isSuccess && isCompleted)
+              {
+                  Console.WriteLine("Perfect");
+              }
+              if (isSuccess || isCompleted)
+              {
+                  System.Console.WriteLine("Great");
+              }
+              if (isSuccess && !isCompleted)
+              {
+                  System.Console.WriteLine("Fine");
+              }
+
         }
     }
 }
