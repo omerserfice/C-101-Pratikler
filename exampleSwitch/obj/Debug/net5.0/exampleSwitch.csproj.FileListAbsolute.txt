@@ -1,0 +1,16 @@
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\exampleSwitch\bin\Debug\net5.0\exampleSwitch.exe
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\exampleSwitch\bin\Debug\net5.0\exampleSwitch.deps.json
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\exampleSwitch\bin\Debug\net5.0\exampleSwitch.runtimeconfig.json
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\exampleSwitch\bin\Debug\net5.0\exampleSwitch.runtimeconfig.dev.json
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\exampleSwitch\bin\Debug\net5.0\exampleSwitch.dll
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\exampleSwitch\bin\Debug\net5.0\ref\exampleSwitch.dll
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\exampleSwitch\bin\Debug\net5.0\exampleSwitch.pdb
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\exampleSwitch\obj\Debug\net5.0\exampleSwitch.csproj.AssemblyReference.cache
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\exampleSwitch\obj\Debug\net5.0\exampleSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\exampleSwitch\obj\Debug\net5.0\exampleSwitch.AssemblyInfoInputs.cache
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\exampleSwitch\obj\Debug\net5.0\exampleSwitch.AssemblyInfo.cs
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\exampleSwitch\obj\Debug\net5.0\exampleSwitch.csproj.CoreCompileInputs.cache
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\exampleSwitch\obj\Debug\net5.0\exampleSwitch.dll
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\exampleSwitch\obj\Debug\net5.0\ref\exampleSwitch.dll
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\exampleSwitch\obj\Debug\net5.0\exampleSwitch.pdb
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\exampleSwitch\obj\Debug\net5.0\exampleSwitch.genruntimeconfig.cache
