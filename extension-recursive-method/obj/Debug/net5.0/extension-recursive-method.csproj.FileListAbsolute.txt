@@ -1,0 +1,16 @@
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\extension-recursive-method\bin\Debug\net5.0\extension-recursive-method.exe
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\extension-recursive-method\bin\Debug\net5.0\extension-recursive-method.deps.json
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\extension-recursive-method\bin\Debug\net5.0\extension-recursive-method.runtimeconfig.json
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\extension-recursive-method\bin\Debug\net5.0\extension-recursive-method.runtimeconfig.dev.json
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\extension-recursive-method\bin\Debug\net5.0\extension-recursive-method.dll
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\extension-recursive-method\bin\Debug\net5.0\ref\extension-recursive-method.dll
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\extension-recursive-method\bin\Debug\net5.0\extension-recursive-method.pdb
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\extension-recursive-method\obj\Debug\net5.0\extension-recursive-method.csproj.AssemblyReference.cache
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\extension-recursive-method\obj\Debug\net5.0\extension-recursive-method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\extension-recursive-method\obj\Debug\net5.0\extension-recursive-method.AssemblyInfoInputs.cache
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\extension-recursive-method\obj\Debug\net5.0\extension-recursive-method.AssemblyInfo.cs
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\extension-recursive-method\obj\Debug\net5.0\extension-recursive-method.csproj.CoreCompileInputs.cache
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\extension-recursive-method\obj\Debug\net5.0\extension-recursive-method.dll
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\extension-recursive-method\obj\Debug\net5.0\ref\extension-recursive-method.dll
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\extension-recursive-method\obj\Debug\net5.0\extension-recursive-method.pdb
+C:\Users\srfco\OneDrive\Masaüstü\Pratikler\extension-recursive-method\obj\Debug\net5.0\extension-recursive-method.genruntimeconfig.cache
